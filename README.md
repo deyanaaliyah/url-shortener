@@ -65,8 +65,8 @@ The frontend should now be running on ```http://localhost:3000```.
 - **DELETE /delete/:shortenedUrls**: Delete a shortened URL.
 
 ## Libraries and tools
-- **Gin**: For building Go API [github.com/gin-gonic/gin](github.com/gin-gonic/gin)
-- Gorm: ORM for Go [github.com/jinzhu/gorm](github.com/jinzhu/gorm).
-- CORS: For handling cross-origin requests [github.com/gin-contrib/cors](github.com/gin-contrib/cors).
+- **Gin**: For building Go API [github.com/gin-gonic/gin](https://github.com/gin-gonic/gin)
+- Gorm: ORM for Go [github.com/jinzhu/gorm](https://www.github.com/jinzhu/gorm).
+- CORS: For handling cross-origin requests [github.com/gin-contrib/cors](https://www.github.com/gin-contrib/cors).
 - [Material-UI (MUI)](https://mui.com/material-ui/all-components/): For building the React frontend UI (@mui/material).
 - [Axios](https://axios-http.com/docs/intro): For making HTTP requests from React to the Go backend (axios).
